@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dheyokah or Heyokah ShadowOfLight
 - 👀 I’m interested in recovering my expertise in hand on  architecture, Design, Implementation and testing of community empower systems.
-- 🌱 I’m currently learning in the following order Python, scripting, Obective-C, C#, remastering my electronics know how. I am also in the process of converting mu windows computers to free open Linux systems such as Susi, Red, Garuda, Kali, Tails and any other needed for grid / off grid development.
+- 🌱 I’m currently learning in the following order Python, scripting, Obective-C, C#, remastering my electronics know how. I am also in the process of converting my windows computers to free open Linux systems such as Susi, Red, Garuda, Kali, Tails and any other needed for grid / off grid development.
 - 💞️ I’m looking to collaborate on anything that support community / climate empowerment for stages of the third and fourth econmic revolution of this world. Post destruction of the current economic infrastructure.
 - 📫 How to reach me, you can find me on ghassan.jarrar@gmail.com, I do not follow that email very much. really need me you can join as a member in my personal discord server at 
 https://discord.gg/ANV5S4cFHx
